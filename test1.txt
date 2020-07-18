@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 128A-4327
+
+ Directory of C:\Users\Chhaya Sharma\Desktop\Maven1
+
+19-07-2020  00:37    <DIR>          .
+19-07-2020  00:37    <DIR>          ..
+13-06-2020  14:49    <DIR>          Maven1
+19-07-2020  00:37                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  397,172,084,736 bytes free
